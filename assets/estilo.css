@@ -83,6 +83,12 @@
     border: 2px solid #aa1f1f;
 }
 
+.imagem3{
+    max-width: 100%;
+    border: 2px solid #aa1f1f;
+    padding: 5px;
+}
+
 /*Estilos da página Contatos*/
 
 .titulo3{
